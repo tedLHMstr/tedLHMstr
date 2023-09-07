@@ -1,7 +1,7 @@
-# 💫 About Me:
+# 👨🏼 About Me:
 Industrial Engineer by trade, creative developer by heart.
-📱 Currently working as a React Native developer
 
+## 🏧 Currently: Building the future of legal work
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ted-str%C3%B6mfelt-56b699190) 
